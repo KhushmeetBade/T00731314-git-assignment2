@@ -1,1 +1,4 @@
+
 Line from MAIN branch - second edit
+Line from CONFLICT branch - different edit
+Final resolved version after merging both edits.
