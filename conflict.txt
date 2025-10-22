@@ -1,1 +1,1 @@
-This line is from the CONFLICT branch
+Line from MAIN branch - second edit
